@@ -13,3 +13,5 @@ Commands:
 `complete TODO_ID` Completes a to-do by setting it as done using its ID \
 `remove TODO_ID` Removes a to-do from the database using its ID \
 `clear` Removes all the to-dos by clearing the database
+
+Hat tip to: https://realpython.com/python-typer-cli/
